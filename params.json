@@ -1,0 +1,6 @@
+{
+  "name": "SDS: Simple Distributed System",
+  "tagline": "A simple distributed system example in Python",
+  "body": "# SimpleDistributedSystem\r\nA simple distributed system example in Python.\r\n\r\nCurrent Features:\r\n - Heartbeat client detection\r\n - Hot client entry\r\n - Client log searching\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
